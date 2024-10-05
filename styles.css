@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    align-items: center;
+    background-color: #EEEEEE;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+#image {
+    align-items: center;
+}
+
+img-div {
+    border: white;
+    margin: 50px 50px 50px 50px;
+}
